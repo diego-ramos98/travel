@@ -1,0 +1,53 @@
+.header{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-family: "Poppins",sans-serif;
+  font-weight: 400;
+  padding: 20px;
+}
+
+.nav-list{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.list-item{
+  list-style: none;
+  padding: 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.container-login{
+  display: flex;
+  justify-content: space-around;
+}
+
+.login-button{
+  padding: 10px;
+  text-decoration: none;
+  font-weight: 600;
+  text-align: center;
+
+}
+
+.login{
+  color: #FD8D3A;
+  margin-right: 20px;
+  text-shadow: 5px 5px 5px 5px #fa743652;
+}
+
+.Sign{
+
+  background-color: #FA7436;
+  color: #FFFFFF;
+  border-radius: 10px;
+  width: 100px;
+  height: 30px;
+  text-align: center;
+  padding: 10px;
+  box-shadow: 5px 5px 5px 5px #fa743635;
+
+}
